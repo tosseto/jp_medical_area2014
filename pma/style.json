@@ -1,0 +1,24 @@
+{
+    "version": 8,
+    "sources": {
+        "mvt": {
+            "type": "vector",
+            "tiles": [
+                "https://github.com/tosseto/jp_medical_area2014/blob/master/pma/pma.mbtiles"
+            ]
+        }
+    },
+    "layers": [
+        {
+            "id": "Primary_medical_area_3618c6e4_cf48_4cbc_a99b_9ff533dea09f",
+            "source": "mvt",
+            "source-layer": "Primary_medical_area",
+            "type": "fill",
+            "paint": {
+                "fill-color": "#becf50",
+                "fill-outline-color": "#232323",
+                "fill-opacity": 1.0
+            }
+        }
+    ]
+}
