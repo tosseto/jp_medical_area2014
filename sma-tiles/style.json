@@ -4,15 +4,15 @@
         "mvt": {
             "type": "vector",
             "tiles": [
-                "https://github.com/tosseto/jp_medical_area2014/blob/master/pma/pma.mbtiles"
+                "https://github.com/tosseto/jp_medical_area2014/blob/master/sma-tiles/sma.mbtiles"
             ]
         }
     },
     "layers": [
         {
-            "id": "Primary_medical_area_3618c6e4_cf48_4cbc_a99b_9ff533dea09f",
+            "id": "Secondary_medical_area_3618c6e4_cf48_4cbc_a99b_9ff533dea09f",
             "source": "mvt",
-            "source-layer": "Primary_medical_area",
+            "source-layer": "Secondary_medical_area",
             "type": "fill",
             "paint": {
                 "fill-color": "#becf50",
